@@ -1,0 +1,18 @@
+div{
+	text-align: center;
+	background: none;
+	
+}
+
+h1{
+	text-align: center;
+	background: none;
+	color:white;
+}
+*{
+	
+	background-image: url("https://images.unsplash.com/photo-1568301956237-25a54f5f0d21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmFjayUyMGdyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+	color: white;
+
+	text-decoration: none;
+}
